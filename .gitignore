@@ -1,0 +1,9 @@
+*.d
+*.o
+*.elf
+*.gcda
+*.gcno
+*.pcap
+/build
+/submission-report.md
+/.vscode/c_cpp_properties.json
